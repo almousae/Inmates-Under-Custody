@@ -6,8 +6,8 @@ Investigates whether personal characteristics and county-level demographic facto
 ## Data 
 
 ### Inmates Data 
-found at https://data.ny.gov/Public-Safety/Incarcerated-Individuals-Under-Custody-Beginning-2/55zc-sp6m/data_preview
+https://data.ny.gov/Public-Safety/Incarcerated-Individuals-Under-Custody-Beginning-2/55zc-sp6m/data_preview
 
 ### County level data 
-found at https://www.openintro.org/data/index.php?data=county_complete
+https://www.openintro.org/data/index.php?data=county_complete
 
