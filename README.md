@@ -11,3 +11,5 @@ https://data.ny.gov/Public-Safety/Incarcerated-Individuals-Under-Custody-Beginni
 ### County level data 
 https://www.openintro.org/data/index.php?data=county_complete
 
+## Authors
+ Esmma Almousa, Bhavishya Hasija, Brenden Paddock, Michael Kornely, Neel Chaudhari
